@@ -31,7 +31,5 @@ public class bmi {
 				
 		System.out.println(bmi+" !");
 	}
-	
-	
 
 }
